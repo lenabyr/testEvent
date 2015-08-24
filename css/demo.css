@@ -1,0 +1,85 @@
+*{margin:0;padding:0;}
+body{
+	background: #ccc;
+	font-family: "MicroSoft Yahei";
+	line-height: 1.5;
+}
+p,a{
+	font-size:14px;
+}
+#container{
+	width:80%;
+	margin:0 auto;
+	background: #fff;
+}
+.header{
+	background: #000;
+}
+.header h3{
+	line-height:40px;
+	padding:10px 20px;
+	color: #fff;
+}
+.article{
+	margin:10px;
+}
+.left{
+	width:150px;
+	float:left;
+	text-align: center;
+}
+.title{
+	margin: 10px;
+}
+.left p{
+	padding: 10px;
+	margin: 10px;
+}
+.calender{
+
+}
+.right{
+	/*margin-left: 20%;*/
+	margin-left: 150px;
+	padding: 10px;
+}
+.content{
+	margin:5px;
+	padding:10px;
+}
+.content h4{
+	padding:0 0 10px 5px;
+	color: blue; 
+}
+.prestyle{
+	margin: 10px;
+	padding-left: 2em;
+}
+/* .content pre{
+
+} */
+.content p{
+	padding:0 10px 10px 10px;
+	text-indent: 2em;
+}
+.content p strong{
+	color:red;
+}
+.content h5{
+	padding:10px 10px;
+	color: #111;
+}
+.footer{
+  background: #000;
+  height: 30px;
+  padding: 5px 10px;
+}
+.footer a:link{
+	line-height: 30px;
+	margin: 0 0 0 45%;
+	color: grey;
+	text-decoration: none;
+}
+.footer a:hover{
+	color: #fff;
+}
